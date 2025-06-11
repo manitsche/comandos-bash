@@ -208,8 +208,3 @@ Concede permissão de execução ao script 'qualeonumero.sh'.
 ./qualeonumero.sh
 ```
 Executa o script 'qualeonumero.sh'.
-
-```
-history >> aula1006.txt
-```
-Salva o histórico de comandos no arquivo 'aula1006.txt'.
