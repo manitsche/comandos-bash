@@ -1,4 +1,4 @@
-# Bash Script e Variáveis - Aula 10/06/2025
+# Bash - Sistemas operacionais - Aula 10/06/2025
 
 ---
 
