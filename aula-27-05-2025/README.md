@@ -1,4 +1,4 @@
-# Bah - Sistemas operacionais - Aula 27/05/2025
+# Bash - Sistemas operacionais - Aula 27/05/2025
 
 ---
 
